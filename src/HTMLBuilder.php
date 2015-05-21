@@ -124,6 +124,11 @@ class HTMLBuilder
         return $html;
     }
 
+    public function __toString()
+    {
+        return $this->build();
+    }
+
     private function renderContent()
     {
         return array_reduce($this->children, function ($acc, $child) {

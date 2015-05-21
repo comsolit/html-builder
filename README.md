@@ -4,6 +4,8 @@ Lightweight utility class for building small snippets of HTML in PHP.
 
 ## Examples
 
+All examples expect a ```use Comsolit\HTMLBuilder;``` statement.
+
 ### Link tag with inner Text
 
 ```PHP

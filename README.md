@@ -125,3 +125,6 @@ whether we want to publish this builder or not:
 * [php-html-generation-class](http://snipplr.com/view/35538/php--html-generation-class/) - last commit 2012, 9 commits total, not on packagist
 * [php-class-html-generator](https://code.google.com/p/php-class-html-generator) - just a snippet, no package
 * [phpquery](https://code.google.com/p/phpquery) - last commit 2011
+* [ratrijs/html-builder](https://packagist.org/packages/ratrijs/html-builder)
+* [howlowck/html-builder](https://packagist.org/packages/howlowck/html-builder)
+* [jleagle/html-builder](https://packagist.org/packages/jleagle/html-builder)

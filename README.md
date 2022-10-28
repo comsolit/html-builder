@@ -1,3 +1,6 @@
+**THIS REPO IS UNMAINTAINED / A NEW MAINTAINER IS NEEDED**
+=================
+
 # HTMLBuilder
 
 Lightweight utility class for building small snippets of HTML in PHP.
